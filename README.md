@@ -1,4 +1,8 @@
-![Mashoorah — an Arabic investing education concept](docs/cover.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="docs/cover.svg">
+  <source media="(prefers-color-scheme: light)" srcset="docs/cover-light.svg">
+  <img alt="Mashoorah — An Arabic investing education concept" src="docs/cover.svg" width="1200">
+</picture>
 
 # Mashoorah | مشورة
 
